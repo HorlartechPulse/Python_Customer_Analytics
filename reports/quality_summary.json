@@ -1,0 +1,24 @@
+{
+  "rows_raw": 32561,
+  "rows_clean": 32561,
+  "rows_dropped": 0,
+  "duplicate_rows_raw": 24,
+  "high_income_rate": 0.2408095574460244,
+  "null_pct_by_col_raw": {
+    "age": 0.0,
+    "workclass": 0.0564,
+    "fnlwgt": 0.0,
+    "education": 0.0,
+    "education_num": 0.0,
+    "marital_status": 0.0,
+    "occupation": 0.0566,
+    "relationship": 0.0,
+    "race": 0.0,
+    "sex": 0.0,
+    "capital_gain": 0.0,
+    "capital_loss": 0.0,
+    "hours_per_week": 0.0,
+    "native_country": 0.0179,
+    "income": 0.0
+  }
+}

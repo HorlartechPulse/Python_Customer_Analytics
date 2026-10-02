@@ -1,0 +1,16 @@
+column,dtype,non_null,nulls,null_pct,n_unique,example
+age,int64,32561,0,0.0,73,39
+workclass,str,30725,1836,5.64,8,State-gov
+fnlwgt,int64,32561,0,0.0,21648,77516
+education,str,32561,0,0.0,16,Bachelors
+education_num,int64,32561,0,0.0,16,13
+marital_status,str,32561,0,0.0,7,Never-married
+occupation,str,30718,1843,5.66,14,Adm-clerical
+relationship,str,32561,0,0.0,6,Not-in-family
+race,str,32561,0,0.0,5,White
+sex,str,32561,0,0.0,2,Male
+capital_gain,int64,32561,0,0.0,119,2174
+capital_loss,int64,32561,0,0.0,92,0
+hours_per_week,int64,32561,0,0.0,94,40
+native_country,str,31978,583,1.79,41,United-States
+income,str,32561,0,0.0,2,<=50K

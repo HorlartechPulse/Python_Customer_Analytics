@@ -1,0 +1,7 @@
+,age,education_num,capital_gain,capital_loss,hours_per_week,high_income
+age,1.0,0.037,0.078,0.058,0.069,0.234
+education_num,0.037,1.0,0.123,0.08,0.148,0.335
+capital_gain,0.078,0.123,1.0,-0.032,0.078,0.223
+capital_loss,0.058,0.08,-0.032,1.0,0.054,0.151
+hours_per_week,0.069,0.148,0.078,0.054,1.0,0.23
+high_income,0.234,0.335,0.223,0.151,0.23,1.0
